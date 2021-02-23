@@ -1,0 +1,84 @@
+body{
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+
+header{
+    text-align: center;
+    border-bottom: #ebebeb solid;
+}
+
+header img{
+    width: 300px;
+}
+
+main{
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 750px;
+}
+
+.confirm{
+    height: 400px;
+    text-align: center;
+    margin: 0 auto;
+    margin: 20px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+h1{
+    text-align: center;
+    margin: 15px;
+    margin-top: -10px;
+    border-bottom: #ccffcc solid;
+    padding: 5px;
+    width: 90%;
+    font-size: 20px;
+}
+
+.name,.mail,.pass,.mypic,.comments{
+    text-align: left;
+    padding: 15px;
+}
+
+.button{
+    padding-top: 10px;
+    padding-left: 28%;
+    padding-bottom: 30px; 
+}
+
+.button1{
+    float: left;
+    border: 1px solid lightgray;
+    padding: 5px 15px;
+    font-size: 15px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottm: solid 5px darkgray;
+}
+
+.button2{
+    float: left;
+    margin-left: 10px;
+    border: 1px solid lightgray;
+    padding: 5px 40px;
+    font-size: 15px;
+    color: white;
+    background-color: #00cc00;
+    border-radius: 5px;
+    border-bottm: solid 5px darkgray;
+}
+
+form{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    border-top: #ebebeb solid;
+}
